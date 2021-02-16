@@ -41,7 +41,7 @@
 <br />
 ---
 
-<img align="left" alt="Jonathan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jmcabreira&show_icons=true&hide_border=true" />
+<img align="left" alt="Pranshu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pranshubhatnagar&show_icons=true&hide_border=true" />
 
 [linkedin]: linkedin.com/in/pranshubhatnagar
 [instagram]: https://instagram.com/trendlines.blog
