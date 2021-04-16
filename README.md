@@ -1,8 +1,8 @@
-### Pranshu Bhatnagar - [Data Scientist] 👋
+### Pranshu Bhatnagar - [Data Scientist] 
 
-## I am a data science consultant, researcher and advisor who loves leveraging data-driven solutions that make an impact on business and society!
+## Hi 👋 I am a data science consultant, researcher and advisor who loves leveraging data-driven solutions that make an impact on business and society!
 
-- 📕 I've written book called Data Science for Marketing Analytics
+- 📕 I've written a book called Data Science for Marketing Analytics
 - 💻 You can find my blog [here]( https://alifeofdatascience.github.io/trendlines/)!
 - 💻 I’ve worked professionally as a Data Scientist for 2+ years
 - 📈 I’m constantly learning and Improving my skills 
