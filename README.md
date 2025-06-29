@@ -2,9 +2,9 @@
 
 ## Hi 👋 I am a data science consultant, researcher and advisor who loves leveraging data-driven solutions that make an impact on business and society!
 
-- 📕 I've written a book called Data Science for Marketing Analytics
+- 📕 I've written a book called Data Science for Marketing Analytics with Python
 - 💻 You can find my blog [here]( https://alifeofdatascience.github.io/trendlines/)!
-- 💻 I’ve worked professionally as a Data Scientist for 2+ years
+- 💻 I’ve worked professionally as a Data Scientist for 7+ years
 - 📈 I’m constantly learning and Improving my skills 
 - 📊 I’m looking to collaborate with other Data Scientists and developers 
 
